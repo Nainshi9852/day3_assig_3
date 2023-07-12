@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Day-2\AssigPS1\AssigPS1\bin\Debug\AssigPS1.exe.config
+C:\Users\HP\Desktop\Indeed\Day-2\AssigPS1\AssigPS1\bin\Debug\AssigPS1.exe
+C:\Users\HP\Desktop\Indeed\Day-2\AssigPS1\AssigPS1\bin\Debug\AssigPS1.pdb
+C:\Users\HP\Desktop\Indeed\Day-2\AssigPS1\AssigPS1\obj\Debug\AssigPS1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Day-2\AssigPS1\AssigPS1\obj\Debug\AssigPS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Day-2\AssigPS1\AssigPS1\obj\Debug\AssigPS1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Day-2\AssigPS1\AssigPS1\obj\Debug\AssigPS1.exe
+C:\Users\HP\Desktop\Indeed\Day-2\AssigPS1\AssigPS1\obj\Debug\AssigPS1.pdb
